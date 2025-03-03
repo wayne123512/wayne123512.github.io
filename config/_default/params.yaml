@@ -49,8 +49,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'March 2, 2025'
-  time_format: '10:00 AM'
+  date_format: ''
+  time_format: ''
 
 # Site features
 features:

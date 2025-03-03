@@ -2,11 +2,11 @@
 title: Ordered formation control and affine transformation of Multi-Agent Systems
   without global reference frame
 authors:
-- Yu-Wen Chen
+- admin
 - Ming-Li Chiang
 - Li-Chen Fu
-date: '2019-07-01'
-publishDate: '2025-03-02T10:00:00Z'
+date: '2019-07-10'
+# publishDate: '2025-03-02T10:00:00.000Z'
 publication_types:
 - paper-conference
 publication: '*2019 American Control Conference (ACC)*'
@@ -14,6 +14,8 @@ publication_short: '*ACC*'
 doi: 10.23919/ACC.2019.8814449
 
 featured: false
+
+url_slides: 'slides.pdf'
 
 abstract: The purpose of this paper is to design a control law such that the multi-agent
   system can form into arbitrary shape, rotate around the centroid which tracks a

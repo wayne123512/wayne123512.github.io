@@ -1,11 +1,11 @@
 ---
 title: Three-Dimensional Maneuver Control of Multiagent Systems With Constrained Input
 authors:
-- Yu-Wen Chen
+- admin
 - Ming-Li Chiang
 - Li-Chen Fu
 date: '2023-10-01'
-publishDate: '2025-03-02T10:00:00Z'
+# publishDate: '2025-03-02T10:00:00Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Cybernetics*'

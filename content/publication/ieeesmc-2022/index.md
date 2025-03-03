@@ -2,7 +2,7 @@
 title: Distributed Formation Control of Multiagent Systems With Specified Order
 authors:
 - Ming-Li Chiang
-- Yu-Wen Chen
+- admin
 - Chin-Sheng Chen
 - Shun-Hung Tsai
 date: '2022-01-01'

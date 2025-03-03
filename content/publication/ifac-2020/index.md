@@ -1,11 +1,11 @@
 ---
 title: Formation Control with Orientation Alignment and Constrained Input
 authors:
-- Yu-Wen Chen
+- admin
 - Ming-Li Chiang
 - Li-Chen Fu
-date: '2020-01-01'
-publishDate: '2025-03-02T10:00:00Z'
+date: '2020-07-11'
+# publishDate: '2025-03-02T10:00:00Z'
 publication_types:
 - article-journal
 publication: '*IFAC-PapersOnLine*'
@@ -23,7 +23,7 @@ abstract: We design a formation controller for Multi Agent Systems such that the
   are given to validate the proposed results.
 tags:
 - Multi-agent Systems
-links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S2405896320321005
+# links:
+# - name: URL
+#   url: https://www.sciencedirect.com/science/article/pii/S2405896320321005
 ---
