@@ -35,7 +35,6 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |
-        test
         My research mainly focuses on control theory, game theory, and multi-agent systems control. 
         
         Please reach out to collaborate 😃

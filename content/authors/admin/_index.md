@@ -93,7 +93,6 @@ work:
     date_end: 2021-05-01
     summary: |
       Responsibilities include:
-      - test
       - Motion Planning for Multi-DoF arms via ROS and Moveit! frameworks
       - Processing 3D sensor data and 2D image pipeline on Jetson AGX Xavier
 
