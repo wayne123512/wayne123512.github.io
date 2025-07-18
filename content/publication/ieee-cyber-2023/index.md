@@ -10,7 +10,7 @@ publication_types:
 - article-journal
 publication: '*IEEE Transactions on Cybernetics*'
 doi: 10.1109/TCYB.2022.3165767
-featured: false
+featured: true
 abstract: In this article, we propose a new 3-D maneuver controller for a class of
   nonlinear multiagent systems (MASs) with nonholonomic constraint and saturated control.
   The system is designed under a distributed communication topology and the controller

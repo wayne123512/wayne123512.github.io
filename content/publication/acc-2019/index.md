@@ -10,7 +10,7 @@ date: '2019-07-10'
 publication_types:
 - paper-conference
 publication: '*2019 American Control Conference (ACC)*'
-publication_short: '*ACC*'
+# publication_short: '*ACC*'
 doi: 10.23919/ACC.2019.8814449
 
 featured: false
