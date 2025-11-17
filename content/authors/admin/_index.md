@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: EECS PhD Student
+role: EECS PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -172,4 +172,4 @@ work:
 
 ## About Me
 
-Yu-Wen Chen is a PhD student in Electrical Engineering and Computer Sciences (EECS) at UC Berkeley. His research focuses on control theory, game theory, and multi-agent systems control.
+Yu-Wen Chen is a PhD candidate in Electrical Engineering and Computer Sciences (EECS) at UC Berkeley. His research focuses on control theory, game theory, and multi-agent systems control.
