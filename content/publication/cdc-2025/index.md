@@ -12,9 +12,9 @@ abstract: This paper introduces a hierarchical framework for population games, w
 publication_types:
 - paper-conference
 publication: '*2025 IEEE 64rd Conference on Decision and Control (CDC)*'
-# doi: 10.1109/CDC56724.2024.10886164
+doi: 10.1109/CDC57313.2025.11312751
 
-# url_slides: 'slides.pdf'
+url_slides: 'slides.pdf'
 
 # links:
 # - name: arXiv

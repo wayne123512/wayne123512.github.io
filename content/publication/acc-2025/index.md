@@ -10,6 +10,7 @@ featured: true
 publication_types:
 - paper-conference
 publication: '*2025 American Control Conference (ACC)*'
+doi: 10.23919/ACC63710.2025.11107698
 
 url_slides: 'ACC2025_presentation.pdf'
 url_poster: 'ACC2025_poster.pdf'
