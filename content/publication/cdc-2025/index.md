@@ -22,5 +22,7 @@ url_slides: 'slides.pdf'
 # - name: URL
 #   url: https://arxiv.org/abs/2409.09961
 
-tags: Multi-agent Systems, Game Theory
+tags:
+- Game Theory
+- Multi-agent Systems
 ---

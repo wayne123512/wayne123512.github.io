@@ -76,6 +76,16 @@ education:
       GPA: 3.7/4.0
       
 work:
+  - position: Software Engineer Intern
+    company_name: WeRide Corp.
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-06-01
+    date_end: 2026-08-31
+    summary: |
+      Responsibilities include:
+      - Optimize PUDO experience
+      - PUDO analysis tool development
   - position: Software Engineer
     company_name: MediaTek Inc.
     company_url: ''
