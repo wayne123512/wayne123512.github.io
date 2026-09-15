@@ -56,8 +56,8 @@ education:
     institution: University of California, Berkeley
     date_start: 2022-08-31
     date_end: 
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: |
+      GPA: 4.0/4.0
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -77,16 +77,16 @@ education:
       
 work:
   - position: Software Engineer Intern
-    company_name: WeRide Corp.
+    company_name: WeRide
     company_url: ''
     company_logo: ''
     date_start: 2026-06-01
     date_end: 2026-08-31
     summary: |
       Responsibilities include:
-      - Optimize PUDO experience
-      - PUDO analysis tool development
-  - position: Software Engineer
+      - Designed algorithms to optimize pickup/dropoff (PUDO) locations for autonomous vehicles
+      - Developed PUDO analysis tools
+  - position: R&D Software Engineer
     company_name: MediaTek Inc.
     company_url: ''
     company_logo: ''
@@ -94,8 +94,9 @@ work:
     date_end: 2022-08-01
     summary: |
       Responsibilities include:
-      - camera middleware framework design
-  - position: Automatic Control Department Software Engineer
+      - Designed and maintained middleware framework for camera applications
+      - Resolved customer issues related to the camera middleware to fulfill QA requirements
+  - position: R&D Robotics Engineer
     company_name: New Era AI Robotic Inc.
     company_url: ''
     company_logo: ''
@@ -103,8 +104,9 @@ work:
     date_end: 2021-05-01
     summary: |
       Responsibilities include:
-      - Motion Planning for Multi-DoF arms via ROS and Moveit! frameworks
-      - Processing 3D sensor data and 2D image pipeline on Jetson AGX Xavier
+      - Designed motion planning algorithms to prevent multi-DoF robotic arms from collisions in dynamic environments
+      - Applied 2D and nD motion planning to autonomous mobile manipulator robots via ROS and MoveIt!
+      - Processed 3D sensor data and 2D image pipelines to implement robot perception on the Jetson AGX Xavier platform
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

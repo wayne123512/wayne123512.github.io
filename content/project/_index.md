@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: Teaching experience
+title: Projects
+summary: Research projects and grants
 type: landing
 
 cascade:
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: projects
     content:
-      title: Teaching Experience
+      title: Projects
       filters:
         folders:
-          - teaching
+          - project
     design:
       view: article-grid-term
       columns: 2

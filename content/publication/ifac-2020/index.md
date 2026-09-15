@@ -7,7 +7,7 @@ authors:
 date: '2020-07-11'
 # publishDate: '2025-03-02T10:00:00Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*IFAC-PapersOnLine*'
 publication_short: '*IFAC World Congress*'
 doi: https://doi.org/10.1016/j.ifacol.2020.12.1505
